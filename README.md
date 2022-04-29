@@ -25,31 +25,47 @@ In the left panel, users can visualize the following information:
 There is also in the left panel, a Send Transaction button, to effectively complete the payment of the service to the selected candidate.
 Once the transaction is completed, the validated transaction hash is displayed to confirm it.
 
+In the next steps it is explained how the payment is processed using a crypto wallet with the ethereum blockchain technology.
+
+1. Select the Canditate and number of hours to hire
+
 </br>
 
 ![Fintech Finder](first.png)
 
 </br>
 
+2. Check the initial balance in the Ganache application
+
 ![Initial Balance](initial_blce.png)
 
 </br>
+
+3. Send the transaction
 
 ![Transaction](transaction.png)
 
 </br>
 
+4. See block details
+
 ![Transaction block](block.png)
 
 </br>
+
+5. Chech the transaction details
 
 ![Transaction details](trans_details.png)
 
 </br>
 
+6. Confirm validation
+
 ![validation](validation.png)
 
 </br>
+
+7. Verify the final balance
 
 ![Final balance](final_blce.png)
 
