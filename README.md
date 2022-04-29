@@ -31,4 +31,28 @@ Once the transaction is completed, the validated transaction hash is displayed t
 
 </br>
 
+![Initial Balance](initial_blce.png)
+
+</br>
+
+![Transaction](transaction.png)
+
+</br>
+
+![Transaction block](block.png)
+
+</br>
+
+![Transaction details](trans_details.png)
+
+</br>
+
+![validation](validation.png)
+
+</br>
+
+![Final balance](final_blce.png)
+
+</br>
+
 
