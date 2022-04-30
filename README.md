@@ -53,7 +53,7 @@ In the next steps it is explained how the payment is processed using a crypto wa
 
 </br>
 
-5. Chech the transaction details
+5. Check the transaction details
 
 ![Transaction details](trans_details.png)
 
