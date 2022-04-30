@@ -71,4 +71,4 @@ In the next steps it is explained how the payment is processed using a crypto wa
 
 </br>
 
-
+For a better understanding, the next video shows how a crypto wallet works using the Fintech Finder application:
