@@ -41,7 +41,7 @@ In the next steps it is explained how the payment is processed using a crypto wa
 
 </br>
 
-3. Send the transaction
+3. Confirm that the transaction was sent
 
 ![Transaction](transaction.png)
 
